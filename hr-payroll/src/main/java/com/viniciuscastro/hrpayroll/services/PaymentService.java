@@ -2,7 +2,6 @@ package com.viniciuscastro.hrpayroll.services;
 
 import com.viniciuscastro.hrpayroll.entities.Payment;
 import com.viniciuscastro.hrpayroll.entities.Worker;
-import lombok.AllArgsConstructor;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
