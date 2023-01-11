@@ -12,7 +12,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("workers")
 @AllArgsConstructor
-public class WorkerResource {
+public class WorkerController {
     private WorkerRepository workerRepository;
 
     @GetMapping
